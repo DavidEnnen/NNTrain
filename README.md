@@ -1,0 +1,2 @@
+# NNTrain
+Learning mode
